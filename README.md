@@ -124,7 +124,7 @@ Profile or User Settings Screen:
 
 ![Profile](AndroidStudioProjects/flash_delivery/Screenshot%20(862).png)
 
-![Profile](AndroidStudioProjects/flash_delivery/Screenshot%20(861).png)
+![Profile](AndroidStudioProjects/flash_delivery/Screenshot%20(863).png)
 
 
 Error/No Internet Screen (Offline Mode):
