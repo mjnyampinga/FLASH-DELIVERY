@@ -38,7 +38,7 @@ You can access the source code and contribute to the project on GitHub:
 ### Figma Mockups
 The app design has been created using Figma. You can view and refer to the full design mockups, including the app layout, user flow, and interactions:
 
-[Figma Design]([https://github.com/mjnyampinga/FLASH-DELIVERY](https://www.figma.com/design/bKCblg7VKOPlY8LxTgblhi/Cosmetics-e-commerce-app?node-id=20-5679&t=ROzK5dcFtW2SbJP9-0))
+[Figma Design](https://www.figma.com/design/bKCblg7VKOPlY8LxTgblhi/Cosmetics-e-commerce-app?node-id=20-5679&t=ROzK5dcFtW2SbJP9-0)
 
 ## Screenshots of the App Interfaces
 
