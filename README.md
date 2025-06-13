@@ -76,11 +76,14 @@ Below are a few screenshots of the app's interface:
 ### Deployment Steps
 -Frontend Deployment:
 
-The Flutter app will be deployed to the Google Play Store for Android users and the Apple App Store for iOS users. You will need to follow the respective guidelines for deploying Flutter apps on each platform.
+Deploy the Android app on Google Play Store and the iOS app on the Apple App Store using their respective guidelines.  
+Firebase services will handle the backend side (Firestore, Storage, Authentication) once the app is connected.
 
 -Backend Deployment:
 
-Firebase handles most of the backend deployment automatically. The Firebase services like Firestore, Authentication, and Storage will be deployed as soon as you connect the app with Firebase and deploy the Cloud Functions (if applicable).
+Connect Firebase services (Firestore, Authentication, Storage) to the Flutter app.  
+Firebase handles the backend deployment automatically.  
+Cloud Functions can be written in Firebase and deployed to handle advanced backend logic.
 
 -CI/CD:
 
