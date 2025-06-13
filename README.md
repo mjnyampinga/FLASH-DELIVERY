@@ -38,7 +38,7 @@ You can access the source code and contribute to the project on GitHub:
 ### Figma Mockups
 The app design has been created using Figma. You can view and refer to the full design mockups, including the app layout, user flow, and interactions:
 
-[Flutter]([https://flutter.dev/docs/get-started/install](https://www.figma.com/design/bKCblg7VKOPlY8LxTgblhi/Cosmetics-e-commerce-app?node-id=20-5679&t=ROzK5dcFtW2SbJP9-1))
+[Figma Design]([https://github.com/mjnyampinga/FLASH-DELIVERY](https://www.figma.com/design/bKCblg7VKOPlY8LxTgblhi/Cosmetics-e-commerce-app?node-id=20-5679&t=ROzK5dcFtW2SbJP9-0))
 
 ## Screenshots of the App Interfaces
 
@@ -46,12 +46,12 @@ Below are a few screenshots of the app's interface:
 
 -Home Screen: 
 
-![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(859).png)
+![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(857).png)
 
 
 -Product Detail Screen:
 
-![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(857).png)
+![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(859).png)
 
 ![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(858).png)
 
