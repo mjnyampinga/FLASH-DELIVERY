@@ -10,11 +10,12 @@ The goal is to create an inclusive, accessible, and user-friendly mobile applica
 
 You can access the source code and contribute to the project on GitHub:
 
+[GitHub Repository Link](https://github.com/mjnyampinga/FLASH-DELIVERY)
 
 ## How to Set Up the Environment and the Project
 
 ### Clone the repository:
-1. git clone https://github.com/mjnyampinga/flash-delivery.git
+1. git clone https://github.com/mjnyampinga/FLASH-DELIVERY.git
 2. cd flash-delivery
 3. Ensure you have Flutter and Dart installed on your system. Follow the instructions here:
 4. Install Flutter dependencies: flutter pub get
@@ -34,8 +35,14 @@ The app design has been created using Figma. You can view and refer to the full 
 
 Below are a few screenshots of the app's interface:
 -Home Screen: 
+![App Screenshot](assets/images/screenshot.png)
+
 -Product Detail Screen:
+![App Screenshot](assets/images/screenshot.png)
+
 -Checkout Screen:
+![Checkout Screenshot](assets/images/screenshot.png)
+
 
 
 ## Deployment Plan
@@ -48,11 +55,17 @@ Below are a few screenshots of the app's interface:
 
 ### Deployment Steps
 -Frontend Deployment:
+
 The Flutter app will be deployed to the Google Play Store for Android users and the Apple App Store for iOS users. You will need to follow the respective guidelines for deploying Flutter apps on each platform.
+
 -Backend Deployment:
+
 Firebase handles most of the backend deployment automatically. The Firebase services like Firestore, Authentication, and Storage will be deployed as soon as you connect the app with Firebase and deploy the Cloud Functions (if applicable).
+
 -CI/CD:
+
 You can set up Continuous Integration/Continuous Deployment (CI/CD) pipelines with GitHub Actions or any other preferred tool to automatically deploy new versions of the app whenever code changes are pushed to the repository.
+
 GitHub Actions: Automates builds and testing.
 Firebase Hosting: If you're adding a web version of the app, Firebase Hosting can be used to deploy the web app.
 
