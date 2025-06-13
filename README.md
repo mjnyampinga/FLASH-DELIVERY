@@ -20,7 +20,7 @@ You can access the source code and contribute to the project on GitHub:
    
 2. cd flash-delivery
    
-3. Ensure you have Flutter and Dart installed on your system. Follow the instructions here: [Flutter](https://flutter.dev/docs/get-started/install)
+3. Ensure you have Flutter and Dart installed on your system. Follow the instructions here: [Flutter Install Guide](https://flutter.dev/docs/get-started/install)
    
 4. Install Flutter dependencies: flutter pub get
    
@@ -43,14 +43,22 @@ The app design has been created using Figma. You can view and refer to the full 
 ## Screenshots of the App Interfaces
 
 Below are a few screenshots of the app's interface:
+
 -Home Screen: 
-![App Screenshot](assets/images/screenshot.png)
+
+![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(859).png)
+
 
 -Product Detail Screen:
-![App Screenshot](assets/images/screenshot.png)
+
+![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(857).png)
+
+![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(858).png)
+
 
 -Checkout Screen:
-![Checkout Screenshot](assets/images/screenshot.png)
+
+![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(856).png)
 
 
 
