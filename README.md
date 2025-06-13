@@ -15,13 +15,21 @@ You can access the source code and contribute to the project on GitHub:
 ## How to Set Up the Environment and the Project
 
 ### Clone the repository:
+
 1. git clone https://github.com/mjnyampinga/FLASH-DELIVERY.git
+   
 2. cd flash-delivery
-3. Ensure you have Flutter and Dart installed on your system. Follow the instructions here:
+   
+3. Ensure you have Flutter and Dart installed on your system. Follow the instructions here: [Flutter](https://flutter.dev/docs/get-started/install)
+   
 4. Install Flutter dependencies: flutter pub get
+   
 5. -Running the development server: To run the app on an emulator or device, use the following command: flutter run
+   
    -Ensure you have a connected device or an emulator running. You can check connected devices using: flutter devices
-7. -Running the app on an iOS or Android device: For iOS, ensure you have Xcode installed and use: flutter run --target=lib/main.dart
+   
+6. -Running the app on an iOS or Android device: For iOS, ensure you have Xcode installed and use: flutter run --target=lib/main.dart
+   
    -For Android, make sure you have Android Studio or an emulator set up, then run the same command
 
 
@@ -30,6 +38,7 @@ You can access the source code and contribute to the project on GitHub:
 ### Figma Mockups
 The app design has been created using Figma. You can view and refer to the full design mockups, including the app layout, user flow, and interactions:
 
+[Flutter]([https://flutter.dev/docs/get-started/install](https://www.figma.com/design/bKCblg7VKOPlY8LxTgblhi/Cosmetics-e-commerce-app?node-id=20-5679&t=ROzK5dcFtW2SbJP9-1))
 
 ## Screenshots of the App Interfaces
 
@@ -49,8 +58,11 @@ Below are a few screenshots of the app's interface:
 
 ### Firebase Backend
 -Firebase Authentication: To manage user sign-in and authentication securely.
+
 -Firestore Database: For storing product data, user profiles, and orders in real-time.
+
 -Firestore Database: For storing product data, user profiles, and orders in real-time.
+
 -Firebase Cloud Functions: If additional backend logic is needed (e.g., sending notifications, order processing).
 
 ### Deployment Steps
@@ -67,6 +79,7 @@ Firebase handles most of the backend deployment automatically. The Firebase serv
 You can set up Continuous Integration/Continuous Deployment (CI/CD) pipelines with GitHub Actions or any other preferred tool to automatically deploy new versions of the app whenever code changes are pushed to the repository.
 
 GitHub Actions: Automates builds and testing.
+
 Firebase Hosting: If you're adding a web version of the app, Firebase Hosting can be used to deploy the web app.
 
 -Monitoring and Updates:
