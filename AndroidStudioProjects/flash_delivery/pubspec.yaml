@@ -88,3 +88,14 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+flutter:
+  assets:
+    - assets/images/
+    - assets/videos/
+
+dependencies:
+  firebase_core: ^1.10.6
+  firebase_auth: ^3.3.4
+  cloud_firestore: ^3.1.5
+  firebase_storage: ^10.0.3
+  firebase_messaging: ^10.0.10    
