@@ -38,7 +38,51 @@ You can access the source code and contribute to the project on GitHub:
 ### Figma Mockups
 The app design has been created using Figma. You can view and refer to the full design mockups, including the app layout, user flow, and interactions:
 
-[Figma Design](https://www.figma.com/design/bKCblg7VKOPlY8LxTgblhi/Cosmetics-e-commerce-app?node-id=20-5679&t=ROzK5dcFtW2SbJP9-0)
+[Figma Design](https://www.figma.com/proto/bKCblg7VKOPlY8LxTgblhi/Cosmetics-e-commerce-app?node-id=3-82&t=oVwRS6hKmlwT9Tly-0&scaling=contain&content-scaling=fixed&page-id=1%3A2324)
+
+## Circuit Diagram
+
+A circuit diagram illustrating the app architecture and flow can be found below:
+
+Design Overview:
+
+-Users interact with the Flutter app which connects to Firebase for real-time data updates.
+
+-Firebase handles Authentication, Firestore storage, and Cloud Storage for images or documents.
+
+-Offline functionality is handled using Flutter’s Cloud Firestore offline capabilities
+
+### Diagram:
+
+
+
+                       +--------------------+
+                       |   Flutter Mobile   |  
+                       |        App          |
+                       +-----------+--------+
+                                   |
+                       REST API / Firebase SDK
+                                   |
+                    +--------------+---------------+
+                    |                              |
+        +-----------v------------+          +--------v--------+
+        | Firebase Authentication |          | Firestore (DB)  |
+        +-------------------------+          +-----------------+
+                    |                              |
+           +--------v-------+                +-----v-----+
+           | Firebase Cloud |                | Firebase  |
+           | Functions      |                | Storage   |
+           +----------------+                +-----------+
+                    |                              |
+           +--------v-----------------------------+
+           |  GitHub Actions (CI/CD Pipeline)     |
+           +---------------------------------------+
+                    |
+           +--------v--------+
+           | Firebase Hosting|
+           +------------------+
+
+
 
 ## Screenshots of the App Interfaces
 
