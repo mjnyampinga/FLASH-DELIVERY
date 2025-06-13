@@ -88,21 +88,48 @@ Design Overview:
 
 Below are a few screenshots of the app's interface:
 
+-Splash Screen:
+
+![splash](AndroidStudioProjects/flash_delivery/Screenshot%20(857).png)
+
+
+-Login/Signup Screen:
+
+![Login](AndroidStudioProjects/flash_delivery/Screenshot%20(860).png)
+
+![signup](AndroidStudioProjects/flash_delivery/Screenshot%20(861).png)
+
+
 -Home Screen: 
 
-![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(857).png)
+![Home](AndroidStudioProjects/flash_delivery/Screenshot%20(858).png)
+
+
+-Product Listing Screen:
+
+![Listing](AndroidStudioProjects/flash_delivery/Screenshot%20(859).png)
 
 
 -Product Detail Screen:
 
-![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(859).png)
-
-![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(858).png)
+![Details](AndroidStudioProjects/flash_delivery/Screenshot%20(867).png)
 
 
 -Checkout Screen:
 
-![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(856).png)
+![Checkout](AndroidStudioProjects/flash_delivery/Screenshot%20(865).png)
+
+
+Profile or User Settings Screen:
+
+![Profile](AndroidStudioProjects/flash_delivery/Screenshot%20(862).png)
+
+![Profile](AndroidStudioProjects/flash_delivery/Screenshot%20(861).png)
+
+
+Error/No Internet Screen (Offline Mode):
+
+![Nointer](AndroidStudioProjects/flash_delivery/Screenshot%20(866).png)
 
 
 
